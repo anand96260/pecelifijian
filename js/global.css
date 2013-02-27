@@ -1,0 +1,39 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  outline: none;
+}
+html { height: 101%; }
+body { font-size: 62.5%; line-height: 1; padding: 0px 10px; background: #e7f1f8; font-family: Arial, Tahoma, sans-serif; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+ol, ul { list-style: none; }
+
+strong { font-weight: bold; }
+
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+img { border: 0; max-width: 100%; }
+
+video { max-width: 100%; height: auto; }
+
+a { color: #5a89cf; }
+
+p { display: block; font-size: 1.3em; color: #555; line-height: 1.3em; margin-bottom: 20px; }
+
+center { font-size: inherit; }
+
+h1 { font-size: 2.4em; line-height: 1.65em; margin-bottom: 20px; font-family: "Skranji", Times New Roman, serif; color: #555; font-weight: normal; }
+
+
+/** body container **/
+#w { max-width: 800px; min-width: 260px; display: block; margin: 0 auto; box-sizing: border-box; padding: 0px 15px; padding-top: 30px; padding-bottom: 80px; background: #fff; }
+
+
+.credits { padding-left: 8%; padding-top: 10px; }

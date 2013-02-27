@@ -1,0 +1,2 @@
+[05-Feb-2013 03:09:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/pecelifi/public_html/m/config.php on line 2
+[05-Feb-2013 03:09:07] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/pecelifi/public_html/m/config.php on line 3

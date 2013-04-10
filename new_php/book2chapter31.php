@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Peceli Fijian Methodist Church of America</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/simplePagination.css">
+	<link rel="stylesheet" href="css/jquery.mobile.pagination.css">
+	<link rel="stylesheet" type="text/css" href="css/global.css">
+	<link rel="stylesheet" type="text/css" href="fonts/stylesheet.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<script src="http://code.jquery.com/jquery-1.6.3.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+    <script src="js/jquery.mobile.pagination.js"></script>
+    <!-- JavaScript HTML requirements -->
+	<script>
+		$.mobile.defaultPageTransition = "slide";
+	</script>
+    <link rel=stylesheet href="http://vjs.zencdn.net/3.2/video-js.css" type="text/css">
+    <script src="http://vjs.zencdn.net/3.2/video.js"></script>
+	<style>.ui-page{background:#fff;}</style><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "7ce22544-85ff-4b59-8fdf-f3eaec9705ee"});</script>
+	</head>
+<body>
+<div data-role="page" id="menu">
+ <section data-role="content">
+	<h2>Topics</h2>
+	<ol data-role="listview">
+				
+				<li><a rel="external" href="#topic957">Opetaia</a></li>
+				
+         </ol>
+</section>  
+<footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book2chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="home.php" data-icon="icon-home icon-white" >Home</a></li>
+			<li><a href="videos.php" data-icon="icon-film icon-white" >Videos</a></li>
+			</ul>
+		</div>
+</footer> 
+</div>
+<div data-role="page" id="topic957">
+    				<header data-role="header">
+					 
+     			    </header>
+            <section data-role="content">
+		
+        <p><font size="5"></font></p>
+       <p><font size="4"></font></p>
+       <p><font size="4">Opetaia</font></p>
+       <p><font size="4">Chapter31-Topic957</font></p>   
+      
+<div class="portion">
+
+<p>AI VOLA I EMOSI NA PAROFITA 9
+957<br/>
+Ijipita? kei ira na kai Filisitia mai Kafi-
+tori, kei ira talega na kai Siria mai Kiri?<br/>
+8Raica, sa wanonova tiko na matanitu
+ca ko ya na mata ni Turaga ko Jiova,
+ka置 na vakarusa tani talega mai na dela
+i vuravura, ia ka置 na sega ni vakarusa
+sara na mataqali i Jekope, sa kaya ko
+Jiova. <br/>9Ni sai au, raica, ka置 na vakaro-
+ta, ia ka置 na dui tauvuloni ira tani na
+mataqali i Isireli ki na veimatanitu
+kecega, me vaka sa tauvuloni na sila e na
+vulo, ka na sega ni lutu e dua na vuana
+ki na qele. <br/>1 ｰEna mate e nai seleiwau ko
+ira kece na noqu tamata erai valavala ca,
+era kaya, Ena sega ni vauci keda se
+liutaki keda na ca oqori.<br/>
+11	E na siga ko ya au na vakatura tale
+na vale i Tevita, ko ya sa bale sobu, au
+na viria tale na tikina sa cicila; ia na
+tikina ka rusa au na vakaduria, ia ka置
+na tara tale me vaka e na gauna eliu:<br/>
+12me ra taukena na kena vo ni Itomi,
+kei na veimatanitu kecega, sa cavuti kina
+na yacaqu, sa kaya ko Jiova, o koya ka
+cakava na ka oqo.<br/> 13 Sa kaya ko Jiova,
+Raica, ena yaco na gauna, ena vauci
+koya sa tamusuka na vuana, ko koya sa
+daucuki were, o koya talega sa sikaraka
+na vua-ni-vaini ena vauci koya sa kabu-
+raka na sila; ia na veiulu-ni-vanua ena
+vakatauca mai na waini vou, ia ena
+vakawaicalataki na veiulu-ni-koro kece-
+ga.<br/> 14Ia ka置 na kauti ira tale mai na
+noqu tamata na Isireli era vakabobula-
+taki, ka ra na tara na veikoro lala, ka
+vakatawa; ka ra na tea na veiwere-ni-
+vaini, ka gunuva na kena waini; era na
+cakava talega na were, ka kania na
+vuana. <br/>15Ia ka置 na vakadeitaki ira e na
+nodra vanua, ka ra na sega ni cavuti tani
+tale mai na nodra vanua ka置 sa solia vei
+ira, sa kaya ko Jiova na nomudou Kalou.
+AI VOLAI
+OPETAIA NA PAROFITA<br/>
+Sa tukuna ni ra na vakacacani na kai Itomi
+e na vuku ni nodra yaloviavialevu, kei na
+nodra cati ira na wekadra na Jekope,
+1-16. Ena vakabulai ko ira na Jekope, ka
+gumatua vei ira na nodra meca, 17-21.
+A raivotu i Opetaia.<br/>
+Sa kaya vakaoqo na Turaga ko Jiova
+e na vuku i Itomi; E dua nai rogorogo
+eda sa rogoca maivei Jiova, ia sa dua na
+mata sa talai ki na veimatanitu; Dou tu
+cake, me da mai tu cake me veivaluti
+kaya.<br/>
+2Raica, au sa vakalailaitaki iko e na
+kedra maliwa na veimatanitu: ko sa beci
+vakalevu. <br/>3 Sa vakacalai iko na viavialevu
+ni lomamu, ko iko ka tiko e na qara ni
+uluvatu, ka sa cecere na nomui tikotiko;
+ka sa kaya e lomamu, O cei me na kauti
+au sobu ki na qele?<br/> 4 Kevaka ko tiko
+vakacecere me vaka na ikeli, ka viritu na
+nomu sova e na maliwa ni kalokalo, ia
+ka置 na kauti iko sobu maikeri, sa kaya
+ko Jiova.<br/> 5Ke ra lako mai vei iko na
+daubutako se na daukove e na bogi,
+(ulei na nomu muduki laivi!) era na sega
+li	ni butakoca ga na ka e rauti ira? ke ra
+lako mai vei iko na dauvetia na vua-ni-
+vaini, era na sega li ni vakavoca eso na
+vua-ni-vaini?<br/>
+6Na kena qarai na ka nei Iso! sa qarai
+e na nona yasana vuni!<br/> 7Era sa kauti
+iko ko ira kece na nomui to ki nai
+yalayala ni vanua: era vakaisini iko, ka
+rawai iko, ko ira na wekamu; ko ira era
+kana vata kei iko era cakava nai cori e
+rukumu; sa sega vua na vuku.<br/>
+8Me'u na sega li ni vakarusai ira tani
+na tamata vuku mai Itomi, kei ira na
+yalomatua mai na ulu-ni-vanua nei Iso,
+e na siga ko ya, sa kaya ko Jiova?<br/> 9 Ka ra
+na taqaya na nomu qaqa, ko iko Tema-
+ni, me ra dui vakamatei mai na ulu-ni-
+vanua nei-Iso ka oti kece kina.<br/> 10E na
+vuku ni nomui valavala kaukauwa vua
+na tacimu ko Jekope, ko na luvuci sara
+</p>
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book2chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="book2chapter30.php#topic956" data-icon="arrow-l" id="slider-1" rel="external">Previous</a></li>
+            <li><a href="book2chapter32.php#topic958" data-icon="arrow-r"  id="slider-1" rel="external">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+</div>
+</body>
+</html>      

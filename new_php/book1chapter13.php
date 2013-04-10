@@ -1,0 +1,1026 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <title>Peceli Fijian Methodist Church of America</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/simplePagination.css">
+	<link rel="stylesheet" href="css/jquery.mobile.pagination.css">
+	<link rel="stylesheet" type="text/css" href="css/global.css">
+	<link rel="stylesheet" type="text/css" href="fonts/stylesheet.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<script src="http://code.jquery.com/jquery-1.6.3.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+    <script src="js/jquery.mobile.pagination.js"></script>
+    <!-- JavaScript HTML requirements -->
+	<script>
+		$.mobile.defaultPageTransition = "slide";
+	</script>
+    <link rel=stylesheet href="http://vjs.zencdn.net/3.2/video-js.css" type="text/css">
+    <script src="http://vjs.zencdn.net/3.2/video.js"></script>
+	<style>.ui-page{background:#fff;}</style><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "7ce22544-85ff-4b59-8fdf-f3eaec9705ee"});</script>
+	</head>
+<body>
+<div data-role="page" id="menu">
+ <section data-role="content">
+	<h2>Topics</h2>
+	<ol data-role="listview">
+				
+				<li><a rel="external" href="#topic176">Na Yalo Savasava kei na i Tovo Dodonu</a></li>
+				<li><a rel="external" href="#topic177">177</a></li>
+				<li><a rel="external" href="#topic178">178</a></li>
+				<li><a rel="external" href="#topic179">179</a></li>
+				<li><a rel="external" href="#topic180">180</a></li>
+				<li><a rel="external" href="#topic181">181</a></li>
+				<li><a rel="external" href="#topic182">182</a></li>
+				<li><a rel="external" href="#topic183">183</a></li>
+				<li><a rel="external" href="#topic184">184</a></li>
+				<li><a rel="external" href="#topic185">185</a></li>
+				<li><a rel="external" href="#topic186">186</a></li>
+				<li><a rel="external" href="#topic187">187</a></li>
+				<li><a rel="external" href="#topic188">188</a></li>
+				<li><a rel="external" href="#topic189">189</a></li>
+				<li><a rel="external" href="#topic190">190</a></li>
+				<li><a rel="external" href="#topic191">191</a></li>
+				<li><a rel="external" href="#topic192">192</a></li>
+				
+				
+				
+			
+				
+         </ol>
+</section>  
+<footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="index.php" data-icon="icon-home icon-white" >Home</a></li>
+			<li><a href="videos.php" data-icon="icon-film icon-white" >Videos</a></li>
+			</ul>
+		</div>
+</footer>  
+</div> 
+<div data-role="page" id="topic176">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic176</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>
+My faith looks up to Thee.<br/>
+1	AU sa tacake tu
+Vei Kemuni, Jisu,
+Ka u masu lo:
+Na vo ni noqu ca,
+Na vu ni madua,
+Ni kautatani ga,
+Karisito.<br/>
+2	Ni’u sa lomani mai,
+Yaloqu me rawai,
+Me’u yalo gu,
+Me’u dau loloma ga
+Ka dina, me vaka
+KoNi loloma ga
+Vei au, Jisu.<br/><br/></p>
+<p>
+3	Ni’u lako voli tu,
+Me’u taura ga, Jisu.
+Ligamuni:
+Me’u satuberi ga,
+Ni’u vakasaqara
+Na ka sa donu ga
+Vei Kemuni.<br/>
+4	Ni’u sa kacivi ga
+Me’u toki ki kea,
+Ni tiko mai:
+Me’u veituberi tu
+Kei Kemuni, Jisu,
+Ni’u sa kosova tu
+Na uciwai.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="book1chapter12.php#topic175" data-icon="arrow-l" id="slider-1" rel="external">Previous</a></li>
+            <li><a href="#topic177" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic177">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic177</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>I / / Dear master, in whose life I see,
+Tune. Hold Thou my hand.
+S.S.	550<br/>
+1	WEKAQU dina ka’u
+lomanatiko,
+Ni’u mai saravaNomuni
+serau,
+Au madua, ka’u tusanaka
+sara
+Ni’u cala vakalevu tu koi
+au.<br/>
+2	Na sala ka’u dokasa dua
+tani,
+Ka dua tani ka’u muria
+tu:
+Sai koya ga ka’u sa
+luluvu kina,
+Ka u tagi mai vei Kemuni,
+Jisu -<br/><br/></p>
+<p>
+3	Vei Kemuni ka a dau
+muria lako
+Na i vakarau ko Ni a dau
+doka,
+Na sala sa dodonu ka
+cecere,
+O	Koya ka’u dredreta
+tikoga.<br/>
+4	Me sa ceguvi au, ni’u
+bula tiko,
+Yalomuni, Wekaqu
+Vakalou,
+Me’u vakaukauwataki tiko
+kina,
+Me’u yalo dina sara ga ka
+Yalo vou.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic176" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic178" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic178">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic178</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>1 7Q 8.4.6.4.10.10.
+I/O I lift my heart to Thee. MHB 451<br/>
+1	Au sa tacake tu
+Vei Kemuni.
+Karisito Jisu
+Me’u Nomuni:
+Sa i vau kaukauwa duadua
+ga
+Na NOmuni loloma levu ga.<br/>
+2	Vei Kemuni, Jisu,
+Ausadinau;
+Ko Ni a sauma tu
+Me’u vakabau:
+Ka’u voli kina me’u sa
+Nomuni,
+Ka’u vesu kina kivei
+Kemuni.<br/><br/></p>
+<p>
+3	Me’u bureitaka li
+Eduanaka,
+Jisu, vei Kemuni,
+Ni’u sa kila,
+Ko Ni a mate me’u lalaga
+mai
+Me daru veilomani,
+veikilai?<br/>
+4	Au taura ga, Jisu,
+Ligahiuni,
+Ni’u taleitaka tu
+Vei Kemuni.
+Edaru sa qai vauci vata tu,
+Ka’u bula e Vukumuni, Jisu.<br/>
+5	Me’u dina tikoga,
+Karisito,
+Me sa yacova ga
+Ni’u moce no;
+Me’u sa qai yadra e
+Matamuni,
+Veivolekati tu kei Kemuni.
+
+</p>
+
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic177" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic179" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic179">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic179</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>*1 A C.M.
+I /V O for a heart to praise mv God.
+MHB 550<br/>
+1	ME soli mada mai vei au
+Nakenayaloga,
+Me’u sa rokova na Kalou,
+Ka marau tu Vua.<br/>
+2	Na yalo sararama mai,
+Nayalo gumatua,
+Me sa curumi au e dai,
+Katiko vakadua.
+3	Nayalo sa dodonu ga.
+Ka dau loloma tu,
+Ka dei, ka dina, me vaka na
+Yalomuni, Jisu.<br/></p>
+<p>
+4	Yaioqu me sa soli tu,
+MoNi taukenaga,
+Me’u vakabauta sara tu
+NaNomuni lewa.<br/>
+5	Nai tovo gasa Nomuni
+Me soli mai, Jisu,
+Me’u vakataki Kemuni,
+Taucoko sara tu.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic178" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic180" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic180">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic180</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>180 11.11.11.11.
+My Jesus, I love Thee
+S.S.	659, MHB 337.<br/>
+1	I JISU, au cuva e Yava-
+muni,
+Ka’u tacake tu ki na
+Matamuni;
+Au vakamamasu na ca me
+boko tu:
+Au mani loloma vei
+Kemuni, Jisu.<br/>
+2	Ko Ni sa loloma taumada
+vei au,
+Vosota na beci, na i sala,
+na kau,
+Bolea na mate me’u sa
+lalaga tu:
+Au mani loloma vei
+Kemuni, Jisu.<br/></p>
+<p>
+3	Ni’u sa bula toka, ka’u qai
+bale no,
+Sa noqu i naki, Turaga, oqo,
+Me’u dau tusanaka na
+Yaca talei tu:
+Au mani loloma vei
+Kemuni, Jisu.<br/>
+4	Mai Nomuni vale, nakoro
+dokai,
+Na nodra vanua na
+vakabulai,
+Me’u dau veiqaravi ka
+seretaka tu:
+“Au mani loloma vei
+Kemuni, Jisu.”
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic179" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic181" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic181">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic181</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>.M.
+Lord of all being, throuned afar.
+M.H.B. 32<br/>
+1	NA Dau veibuli dau dokai
+Sa Nomuni naveivanua,
+Ko Ni sa taleitaka mai
+Neimami bula yadudua.<br/>
+2	Sa Nomuni loiomaga
+Sa rawa kina me kilai
+Na ka dodonu, me vaka
+Keimami sa serauni mai.<br/><br/></p>
+<p>
+3	NikoNi cila tiko mai,
+Sa siga levu tu oqo;
+Ni ko Ni sega ni laurai,
+Qai tubu kina na buto.<br/>
+4	Na dina me sa soli mai,
+Ka tauri e na yalo gu,
+Me qai lalaga ka savai
+Neimami vakasamatu.<br/>
+5	Na veilomani kei Jisu
+Me waqa tiko, me vaka
+Keimami sa cabori tu
+Me sa i madrali bula ga.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic180" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic182" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic182">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic182</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>, MHB 400
+Take my life, and let it be.<br/>
+1	NOQU bulamesatu
+E Ligamuni, Jisu;
+Noqu gaunaNi lewa,
+Me sa yaga tikoga. <br/>
+2	Na yagoqu Ni tara;
+Nayaloqu Ni sava;
+Ni curuma mada mai
+Na lomaqu e daidai.<br/>
+3	Na ligaqu, na Kalou,
+Mo Ni taura tu oqo,
+Me’u sa ogataka ga
+Ka ni bula vou ko ya.<br/><br/></p>
+<p>
+4	Na yavaqu ni tala
+E na sala ga ko ya
+Sa butuka ga e liu
+Na Yavamuni, Jisu.<br/>
+5	Noqu iyau me Nomuni.
+Me qaravi Kemuni;
+Kua ga ni’u taura tu -
+Ni taukena ga, Jisu.<br/>
+6	Taurivaki au oqo;
+Ke’u qai mate koto no,
+Me’u sa yaga tikoga
+Mai na bula ga ko ya.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic181" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic183" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic183">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic183</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>8.8.8.86.
+0	Love that will not let me go.
+MHB 448.<br/>
+1	LOLOMA levu ni Kalou,
+Sa bese tu ni laivi au:
+Au sa raviti Kemuni;
+Au soli au me’u Nomuni,
+Ka tawa mudu tu.<br/><br/></p>
+<p>
+3	Na marau levu ni Kalou!
+Ni yaco mai vei au dai!
+Au tagi ga, ka’u vutugu:
+Mataka sa na oti tu,
+Au na reki mai.<br/>
+4	Kauveilatai! Vuetiau!
+Au sa golevi Kemuni;
+Au qai colata sara tu,
+Me’u mate vata kei Jisu,
+Qai bula Kaya ga.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic182" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic184" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic184">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic184</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>Not my own. S.S. 592<br/>
+1	NONA ganai Vakabula,
+Voli au e Nona dra;
+Au sa rekitaki Koya,
+Au sa Nona dina ga.
+Nomuni, Nomuni,
+Jisu, au sa Nomuni;
+Sega tale au gadreva -
+Jisu, au sa Nomuni.<br/><br/></p>
+<p>
+2	Nona ga, au sa solia
+Na yaloqu vei Jisu:
+Au sa vakabauti Koya.
+Me’u sa Nona sara tu.<br/>
+3	Nona ga, me’u cakacaka
+E na were ni Kalou;
+Me’u tukuni Jisu voli,
+Ni’u lomani Koya tu.<br/>
+4	Nona ga, me’u bula Kaya
+Mai na lomalagi vou;
+Me’u sa raici Koya tiko,
+la ga na sere vou. 
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic183" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic185" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic185">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic185</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>1	8.8.8.8.88
+-10*7 Tune: Marienlyst, MHB 608
+1	SA kilikili ga kei au
+Me’u biuti vuravura tu,
+Jiova me’u sa mai doka,
+Ka sere yani vei Jisu.
+Turaga, ni totaki au:
+Sa dredre sara vakai au.<br/><br/><br/></p>
+<p>
+2	Na loma ocaoca ga,
+Na ka sa vakaleqai au -
+Me’u sa lalaga dina mai,
+Ni’u sa rogoca na i vunau:
+Me lako tani mada ga,
+Na vuravura kei na ca.<br/>
+3	Me lutu sobu mai vei au
+Na Yalo Tabu ni Kalou,
+Me’u sa kila na i vakarau,
+Ka yaco ga me’u yalo vou;
+Me’u sa qai ladelade ga,
+Ka laga sere tikoga.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic184" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic186" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic186">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic186</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>-a os-  -6-7-6 D
+JlOO 0 Je8us’ 1 have promised.<br/>
+2	Serauni vuravura
+Sa dau temaki au:
+Ni mai veivuke, Jisu,
+Ka taqomaki au.
+Sa levu tu na meca
+Ravia coritiau;
+Lomani au, Turaga,
+Ka mai totaki au.<br/><br/></p>
+<p>
+3	Domomuni Turaga,
+Me rogo mai oqo,
+Gadreva na y aloqu
+Nomuni i vakaro.
+Ni vosa mai, Turaga,
+Ni vakaroti au;
+Ni vosa, me’u rogoca
+Na Nomuni vunau.<br/>
+4	Tuberi au, Turaga,
+EnaLigamuni,
+Me’u qai muria rawa
+We ni Yavamuni,
+E Nomuni kaukauwa
+Au ravi dinatu,
+Ka’u dau gagadre tiko
+Vei Kemuni, Jisu.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic185" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic187" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic187">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic187</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>A i Vakatakila 2, 7 - C.H. 105<br/>
+1	SA lomaqu dina sara
+Me’u vinaka tikoga.
+Noqu lotu me kaukauwa
+E na gauna kecega.
+Dina ga, sa tu na meca,
+Dina ga, sa tu na ca -
+Rauti au na i Vakabula,
+Au sa ravi tu Vua.
+Ni totaki au, Turaga,
+Me’u qai qaqa dina ga,
+Meca kece me sa rawa,
+Bale mate kecega. <br/><br/></p>p
+<p>
+2	Sa lomaqu dina sara
+Me’u tamata yaga ga;
+Au sa cata ga na wele,
+Se na tiko vucesa.
+Au sa Nomuni, Turaga,
+Mo ni lesi au e dai;
+Au gadreva vakalevu,
+Me’u sa Nomuni talai.
+Au sa cata ga na wele,
+Au sa via yaga ga;
+Levu tu na cakacaka,
+Me’u veivuke mada ga.<br/>
+3	Sa lomaqu dina sara
+Me sa tini vata ga
+Noqu bula, Noqu yaga,
+Me’u qai toki ki kea.
+Noqu mada ga na i sala,
+Kei na ka talei eso,
+Noqu mada ga na vatu vula,
+Noqu ga na Yaca vou.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic186" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic188" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic188">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic188</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>Me’u bau toki e na reki,
+Vaka-aleluva tu,
+Curu sara ki na koro,
+Tiko vata kei Jisu.
+8 8 3 8
+Tune: Celeste. MHb 69<br/>
+1	ME biu vakatakievei
+Na i tovo e velavela?
+Me’u la’ki taroga vei cei
+Na yalo e savasava?<br/><br/></p>
+<p>
+3	Au dravudravua, koi au.
+Me noqu e dua na ka -
+Turaga, me noqu i yau,
+Na yalo e savasava.
+4	Turaga, na noqu <br/>Kalou,
+Au tagi vei Kemuni ga:
+Me noqu na yalo sa vou,
+Na yalo e savasava.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic187" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic189" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic189">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic189</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>II	Kori, 5.17 C.M.
+Tune: Belimont. MHB 766<br/>
+1	O KOYA satuvataga
+Kei na Karisto,
+Sa bau takali nona ca,
+Ni sa qai sucu vou.<br/><br/></p>
+<p>
+2	Nakamakawasaqai biu;
+Sa gauna vou e dai;
+Na ka e cata ga e liu,
+Sa vinakata mai.<br/>
+3	Savuataka tikoga
+Na ka ni bula vou;
+Sa taleitaka talega
+Na vosa Va Kalou.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic188" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic190" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+
+
+</div>
+<div data-role="page" id="topic190">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic190</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>.II.II.1I.
+1VU Take time t0 holy- S.S 609<br/>
+1	DAU tiko vei Jisu, dau
+masu Vua,
+Me nomu na yalo sa sava
+sava;
+Wilika na i Vola,
+tacake e dai
+Vei Koya sa mate
+e kauveilatai. <br/>
+2	Dau tiko vei Jisu, sa rawa
+Vua
+Me sa maroroya e gauna ni
+ca.
+Mo waraki Koya, rai yani
+oqo.
+Drau veitauri liga kei
+Karisito.<br/><br/></p>
+<p>
+3	Dau tiko vei Jisu, mo gole
+Vua
+Na meca ni yalo me vaka-
+rusa;
+Sa vakaiyaragi na nomu i
+To-
+Mo vakararavi vei Karisito.<br/>
+2	Biuta tu na kocokoco,<br/>
+4	Dau tiko vei Jisu, voleka
+Vua;
+Mo vakarurugi e Vatu koya;
+E veisiga kece ni bula oqo,
+Mo drau veiwekani kei
+Karisito.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic189" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic191" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+<div data-role="page" id="topic191">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic191</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>Courage, brotherl Do not stumble.
+MHB 987 Tune Hyfrydol MHB 380<br/>
+or Everest (CMC)
+1	KEMUNI naveitokani,
+Me da ravi vei Jisu;
+Biuta ga sala na tani,
+Cici tikoga ki liu.
+Kua ga ni yalo wele,
+De ko bale vakaca;
+Veikau liwa noda sala,
+Biuta ga na yaloca,
+Vakanadakuya sara
+Vosa lasu kecega.
+Mo ravita na Turaga,
+Rer^vaki Koya tu.
+E na nomu i tovo kece
+Dina tiko vei Jisu.<br/><br/></p>
+<p>
+3	Kua ga ni boletaka
+Nomu vuku walega.
+Ka mo biuta sara mada
+Na i lawaki talega.
+Veitalia ga mo cati,
+Se ko beci wale tu,
+Mo rai tikoga ki cake
+Vei Karisito Jisu. 
+Ka veivatu ena ca.<br/>
+4	Taurivaki na i yaragi,
+Nona vosa na Kalou;
+Valataka na rarama,
+Me seavu na buto.
+Vosovoso, yalo dina,
+Gumatua tikoga,
+Vakabauti Jisu kina,
+Ravi sara ki Vua.
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic190" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="#topic192" data-icon="arrow-r"  id="slider-1">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+<div data-role="page" id="topic192">
+    				<header data-role="header">
+					<div id="logo">
+  				    </div>
+     			    <?include 'form.php';?></header>
+            <section data-role="content">
+		<p><font size="4">Chapter13-Topic192</font></p>
+        <p><font size="4">VOLA NI SERE</font></p>
+        <p><font size="4">Na Yalo Savasava kei na i Tovo Dodonu</font></p>
+<div class="portion">
+
+<p>11.1011.10.
+m
+O brother man, Fold to thy
+heart thy brother. MHB 911
+Alternative tune O Perfect Love
+MHB 777, and Barkingside CMC
+1	ME da sa tiko vakavei -
+wekani,
+Me noda na loloma
+Vakalou:
+Sa kilikili me da veilomani
+Ka i valavala Vakarisito <br/>
+2	SavakarotatikonaTuraga,
+Ka kaya me da dau vei -
+vuke ga
+Vei ira era leqa se rarawa
+Kei ira era sota kei na ca.<br/><br/></p>
+<p>
+3	Nagau-ni-salamedasa
+butuka
+Ka a dau butuka na Kari -
+sito,
+Ni sa nanumi tu na vura -
+vura
+Me Nona vale tabu na
+Kalou.<br/>
+4	Qai rawa me ra sere ga
+na vesu,
+Me tubu na lalaga, na
+sautu,
+Na yalo mamarau, na
+vakacegu,
+Na veitokani dina kei
+Jisu. 
+
+
+</p>
+
+</div><span class='st_facebook_hcount' displayText='Facebook'></span><span class='st_twitter_hcount' displayText='Tweet'></span></section>
+	    <footer data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+		<ul>			
+            <li><a href="book1chapters.php" data-icon="icon-book icon-white" data-theme="c" class="ui-btn-active">Chapters</a></li>			
+			<li><a href="#topic191" data-icon="arrow-l" id="slider-1">Previous</a></li>
+            <li><a href="book1chapter14.php#topic193" data-icon="arrow-r"  id="slider-1" rel="external">Next</a></li>
+			</ul>
+		</div>
+		  </footer> 
+		</div>
+
+</div>
+</body>
+</html>      
